@@ -1,7 +1,7 @@
 {
   "name": "finport-backend",
   "version": "1.0.0",
-  "description": "API para FinPortApp: an\u00e1lisis financiero e inversi\u00f3n sostenible.",
+  "description": "API para FinPortApp: análisis financiero e inversión sostenible.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,7 +9,7 @@
   },
   "keywords": [
     "finanzas",
-    "inversi\u00f3n",
+    "inversión",
     "api",
     "sostenibilidad"
   ],
@@ -19,7 +19,8 @@
     "axios": "^1.6.8",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^8.15.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
