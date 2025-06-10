@@ -2,13 +2,20 @@
   "dependencies": {
     "@react-navigation/native": "^7.1.10",
     "expo": "^53.0.11",
+    "expo-dev-client": "^5.2.0",
     "react-native-gesture-handler": "^2.25.0",
     "react-native-reanimated": "^3.18.0",
     "react-native-safe-area-context": "^5.4.1",
     "react-native-screens": "^4.11.1",
-    "react-native-vector-icons": "^10.2.0"
+    "react-native-vector-icons": "^10.2.0",
+    "react": "19.0.0",
+    "react-native": "0.79.3"
   },
   "scripts": {
-    "web": "expo start --web"
-  }
+    "web": "expo start --web",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "name": "FinPortApp",
+  "version": "1.0.0"
 }
