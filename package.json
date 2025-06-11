@@ -16,6 +16,6 @@
     "android": "expo run:android",
     "ios": "expo run:ios"
   },
-  "name": "FinPortApp",
+  "name": "finportapp",
   "version": "1.0.0"
 }
