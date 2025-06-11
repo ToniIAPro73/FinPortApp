@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 
+<form className="w-full max-w-md bg-white shadow-md rounded px-8 pt-6 pb-8">
+
 function UserForm() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
